@@ -1,0 +1,4 @@
+com\kerlin\mapper\EmployeeMapper.class
+com\kerlin\domain\Employee.class
+com\kerlin\mapper\DepartmentMapper.class
+com\kerlin\domain\Department.class
